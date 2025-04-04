@@ -33,4 +33,4 @@ const char* apiUrl = "https://api.alerts.in.ua/v1/iot/active_air_raid_alerts/15.
 
 Схема підключення
 
-![image alt](https://github.com/snizhka13/ChronoPanel/blob/main/%D1%81%D1%85%D0%B5%D0%BC%D0%B0.jpg)
+![image](https://github.com/user-attachments/assets/9c625409-400d-4708-af55-9e2b78c43fdd)
