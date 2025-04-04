@@ -32,3 +32,5 @@ const char* apiUrl = "https://api.alerts.in.ua/v1/iot/active_air_raid_alerts/15.
 і замінити "15" на код своєї області 
 
 Схема підключення
+
+![alt image](Schematic_diagrams.jpg)
